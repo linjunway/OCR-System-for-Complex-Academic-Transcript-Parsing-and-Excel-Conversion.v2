@@ -1,9 +1,9 @@
 # ZJUI-UIUC Transcript Parser
 
 **Version:** 2.3  
-**Authors:** Jaden Peterson Wen (© 2025) · Junway Lin (© 2026)
+**Author:** Junway Lin (© 2026)
 
-A desktop GUI tool that extracts course data from UIUC (University of Illinois Urbana-Champaign) PDF transcripts and converts it into structured Excel files formatted for import into the Zhejiang University International (ZJUI) student system.
+A desktop GUI tool that extracts course data from UIUC (University of Illinois Urbana-Champaign) PDF transcripts and converts it into structured Excel files formatted for import into the Zhejiang University International (ZJUI) student system. This program builds on the original First-Generation Parser developed by Jaden Wen Peterson.
 
 ---
 
